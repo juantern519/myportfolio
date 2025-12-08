@@ -51,8 +51,8 @@ export const BentoGridItem = ({
   titleClassName?: string;
   spareImg?: string;
 }) => {
-  const leftLists = ["Javascript", "React", "NodeJS", "Django"];
-  const rightLists = ["OpenAI", "RagAI", "ChatGPT", "AI integration"];
+  const leftLists = ["Javascript", "React", "React Native", "Node.js"];
+  const rightLists = ["AWS", "PHP", "AI", "And"];
 
   const [copied, setCopied] = useState(false);
 
@@ -67,7 +67,7 @@ export const BentoGridItem = ({
 
   const handleCopy = () => {
     window.open(
-      "https://www.upwork.com/freelancers/~01665137ead7ca5cba",
+      "https://www.upwork.com/freelancers/~0146f3dc361d395d4b",
       "_blank"
     );
   };

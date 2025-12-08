@@ -178,15 +178,15 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Web Developer - Apify",
-    desc: "Developed responsive and dynamic front-end interfaces using React.js and Next.js, improving user experience and site performance. Worked closely with data scientists to integrate AI models into web applications, providing real-time insights and predictions. Implemented server-side logic with Node.js and Express.js, ensuring robust and efficient back-end operations. Managed database operations using MongoDB and SQL, optimizing queries for better performance and scalability.",
+    title: "Team Leader - Zapier",
+    desc: "Led a development team, coordinated projects, and ensured timely delivery of scalable, automated workflow solutions.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Full Stack Developer - Freelancer",
-    desc: "Website project development from scratch and delivery to production. Implementation of intranet networks, integration with payment systems. Maintenance and monitoring of the implemented systems.Reengineering and improvement of customer's legacy systems. Technologies: ASP.NET, C#, XHTML, CSS, JavaScript, JQuery, Microsoft SQL Server",
+    title: "Front End Developer - Microsoft ",
+    desc: "Built responsive, high-performance user interfaces and collaborated with design and backend teams to deliver seamless web applications.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
